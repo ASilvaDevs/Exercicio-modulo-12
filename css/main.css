@@ -1,0 +1,7 @@
+.row{
+    height: 33vh;
+}
+
+#successAlert{
+    display: none;
+}
